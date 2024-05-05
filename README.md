@@ -71,7 +71,7 @@ To github.com:SofiaBachulashvili/I_will_never_loose_deadline.git
    cf81b1c..1fc6754  main -> main
 ```
 
-## И позитивно начанаем создавать новый - main.cpp 😁🥰
+## И позитивно начинаем создавать новый - main.cpp 😁🥰
 ```sh                            
 ❯ cat > main.cpp <<EOF   
 #include <iostream>
