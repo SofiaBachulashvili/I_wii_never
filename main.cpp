@@ -6,7 +6,7 @@ int main() {
     std::cin >> num;
 
     for (int i = 0; i < num; ++i) {
-        std::cout << "I will never lose deadline!" << std::endl;
+        std::cout << "I will never loose deadline!" << std::endl;
     }
 
     return 0;
