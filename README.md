@@ -130,6 +130,7 @@ To github.com:SofiaBachulashvili/I_will_never_loose_deadline.git
 
 ## Ой в слове lose должно быть две "о"🙄😒
 ## Заходим в github, редактируем файл
+## А потом git pull
 ```sh                      
 ❯ git pull origin main                 
 remote: Enumerating objects: 5, done.
