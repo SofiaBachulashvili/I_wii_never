@@ -212,3 +212,5 @@ I will never loose deadline!
 Everything up-to-date
 ```
 ## Все можно отдохнуть
+
+![That's my drawing](I_Will_Never_Loose_Deadline.png)
